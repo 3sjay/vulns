@@ -1,6 +1,25 @@
 # Information about Published Vulnerabilities
 
 
+## SSD
+
+* [SSD-KERIOCONTROL](https://ssd-disclosure.com/ssd-advisory-keriocontrol-remote-code-execution/) - KerioControl Authenticated RCE
+
+
+
+## CVEs
+* [CVE-2022-41758](https://www.moxa.com/en/support/product-support/security-advisory/multiple-routers-improper-input-validation-vulnerabilities) - Moxa Router Pre-Auth RCE (TN-5916 Series)
+* [CVE-2022-41759](https://www.moxa.com/en/support/product-support/security-advisory/multiple-routers-improper-input-validation-vulnerabilities) - Moxa Router Post-Auth RCE (EDR-810 Series,EDR-G902 Series, EDR-G903 Series, TN-4900 Series)
+
+
+## No Identifier
+
+* [PandoraFMS](https://pandorafms.com/en/release-notes/pandora-fms-ng-766-rrr/) - PandoraFMS Pre-Auth RCEs [Blog Post](https://3sjay.github.io/2023/01/06/pandoraFMS-Pre-Auth-RCE.html)
+* [WR01 Aukey Router](https://raw.githubusercontent.com/3sjay/sploits/main/aukey-wr-01-RCE-0day.py) - WR01 Aukey Router Authenticated RCE
+* [Plague Botnet](https://3sjay.github.io/2022/04/13/Plauge-Botnet-PreAuth-RCE.html) - Plague Botnet Pre-Auth RCE
+* [Anubis Botnet](https://3sjay.github.io/2022/04/14/anubis-botnet-takeover.html) - Anubis Botnet Takeover
+
+
 ## ZDI
 * [ZDI-21-1234](https://www.zerodayinitiative.com/advisories/ZDI-21-1234/) - (0Day) Vinchin Backup and Recovery Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability
 * [ZDI-21-1235](https://www.zerodayinitiative.com/advisories/ZDI-21-1235/) - (0Day) Vinchin Backup and Recovery Use of Hard-coded Credentials Authentication Bypass Vulnerability
@@ -38,26 +57,6 @@
 * [ZDI-23-192](https://www.zerodayinitiative.com/advisories/ZDI-23-192/) - Siemens Tecnomatix Plant Simulation  SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
 * [ZDI-23-187](https://www.zerodayinitiative.com/advisories/ZDI-23-187/) - Siemens Tecnomatix Plant Simulation  SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
 * [ZDI-23-197](https://www.zerodayinitiative.com/advisories/ZDI-23-197/) - Siemens Tecnomatix Plant Simulation  SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability* 
-
-
-## SSD
-
-* [SSD-KERIOCONTROL](https://ssd-disclosure.com/ssd-advisory-keriocontrol-remote-code-execution/) - KerioControl Authenticated RCE
-
-
-
-## CVEs
-* [CVE-2022-41758](https://www.moxa.com/en/support/product-support/security-advisory/multiple-routers-improper-input-validation-vulnerabilities) - Moxa Router Pre-Auth RCE (TN-5916 Series)
-* [CVE-2022-41759](https://www.moxa.com/en/support/product-support/security-advisory/multiple-routers-improper-input-validation-vulnerabilities) - Moxa Router Post-Auth RCE (EDR-810 Series,EDR-G902 Series, EDR-G903 Series, TN-4900 Series)
-
-
-## No Identifier
-
-* [PandoraFMS](https://pandorafms.com/en/release-notes/pandora-fms-ng-766-rrr/) - PandoraFMS Pre-Auth RCEs [Blog Post](https://3sjay.github.io/2023/01/06/pandoraFMS-Pre-Auth-RCE.html)
-* [WR01 Aukey Router](https://raw.githubusercontent.com/3sjay/sploits/main/aukey-wr-01-RCE-0day.py) - WR01 Aukey Router Authenticated RCE
-* [Plague Botnet](https://3sjay.github.io/2022/04/13/Plauge-Botnet-PreAuth-RCE.html) - Plague Botnet Pre-Auth RCE
-* [Anubis Botnet](https://3sjay.github.io/2022/04/14/anubis-botnet-takeover.html) - Anubis Botnet Takeover
-
 
 
 
