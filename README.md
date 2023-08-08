@@ -57,7 +57,7 @@
 * [ZDI-23-192](https://www.zerodayinitiative.com/advisories/ZDI-23-192/) - Siemens Tecnomatix Plant Simulation  SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
 * [ZDI-23-187](https://www.zerodayinitiative.com/advisories/ZDI-23-187/) - Siemens Tecnomatix Plant Simulation  SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
 * [ZDI-23-197](https://www.zerodayinitiative.com/advisories/ZDI-23-197/) - Siemens Tecnomatix Plant Simulation  SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability* 
-
+* [ZDI-CAN-15469](https://informationwarfarecenter.com/cir/war/The_OSINT_Cyber_WAR_2022-01-03.pdf) - CheckMK Authenticated RCE
 
 
 
