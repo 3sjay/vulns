@@ -26,7 +26,7 @@
 * [WR01 Aukey Router](https://raw.githubusercontent.com/3sjay/sploits/main/aukey-wr-01-RCE-0day.py) - WR01 Aukey Router Authenticated RCE
 * [Plague Botnet](https://3sjay.github.io/2022/04/13/Plauge-Botnet-PreAuth-RCE.html) - Plague Botnet Pre-Auth RCE
 * [Anubis Botnet](https://3sjay.github.io/2022/04/14/anubis-botnet-takeover.html) - Anubis Botnet Takeover
-
+* [Device42](https://github.com/3sjay/sploits/blob/main/device42_preauth-rce_poc.py) - Device42 Pre-Auth RCE 
 
 ## ZDI
 * [ZDI-21-1234](https://www.zerodayinitiative.com/advisories/ZDI-21-1234/) - (0Day) Vinchin Backup and Recovery Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability
