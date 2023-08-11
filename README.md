@@ -66,6 +66,28 @@
 * [ZDI-23-187](https://www.zerodayinitiative.com/advisories/ZDI-23-187/) - Siemens Tecnomatix Plant Simulation  SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
 * [ZDI-23-197](https://www.zerodayinitiative.com/advisories/ZDI-23-197/) - Siemens Tecnomatix Plant Simulation  SPP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability* 
 * [ZDI-CAN-15469](https://informationwarfarecenter.com/cir/war/The_OSINT_Cyber_WAR_2022-01-03.pdf) - CheckMK Authenticated RCE
+* ZDI-CAN-21162: Voltronic Power - More information upcoming - CVSS 3.0 7.5
+* ZDI-CAN-21203: Voltronic Power - More information upcoming - CVSS 3.0 9.8
+* ZDI-CAN-21163: Voltronic Power - More information upcoming - CVSS 3.0 9.8
+* ZDI-CAN-19094: SEW-EURODRIVE - More information upcoming - CVSS 3.0 5.5
+* ZDI-CAN-21012: Voltronic Power - More information upcoming - CVSS 3.0 9.8
+* ZDI-CAN-21060: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-21106: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-21132: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-19748: Rockwell Automation - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-19750: Rockwell Automation - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-20447: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-20356: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-20305: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-20296: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-20307: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-20297: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-20302: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-20298: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-20306: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-20301: Siemens - More information upcoming - CVSS 3.0 7.8
+* ZDI-CAN-19580: Advantech - More information upcoming - CVSS 3.0 9.8
+* ZDI-CAN-19579: Advantech - More information upcoming - CVSS 3.0 8.8
 
 
 
