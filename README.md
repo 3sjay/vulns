@@ -27,6 +27,9 @@
 * [Plague Botnet](https://3sjay.github.io/2022/04/13/Plauge-Botnet-PreAuth-RCE.html) - Plague Botnet Pre-Auth RCE
 * [Anubis Botnet](https://3sjay.github.io/2022/04/14/anubis-botnet-takeover.html) - Anubis Botnet Takeover
 * [Device42](https://github.com/3sjay/sploits/blob/main/device42_preauth-rce_poc.py) - Device42 Pre-Auth RCE 
+* [Open Automation Software](https://openautomationsoftware.com) - OAS Plattform Authentication Bypass due to Hardcoded Secrets - Silently Patched
+* [Open Automation Software](https://openautomationsoftware.com) - OAS Plattform RCE/LCE through .Net Deserialization (parsing of local file is needed) - No Information
+
 
 ## ZDI
 * [ZDI-21-1234](https://www.zerodayinitiative.com/advisories/ZDI-21-1234/) - (0Day) Vinchin Backup and Recovery Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability
