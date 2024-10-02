@@ -10,15 +10,14 @@
 ## CVEs
 * [CVE-2022-41758](https://www.moxa.com/en/support/product-support/security-advisory/multiple-routers-improper-input-validation-vulnerabilities) - Moxa Router Pre-Auth RCE (TN-5916 Series)
 * [CVE-2022-41759](https://www.moxa.com/en/support/product-support/security-advisory/multiple-routers-improper-input-validation-vulnerabilities) - Moxa Router Post-Auth RCE (EDR-810 Series,EDR-G902 Series, EDR-G903 Series, TN-4900 Series)
-* [CVE-2023-33237](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-33237) - To Be Disclosed
-* [CVE-2023-33238](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-33238) - To Be Disclosed
-* [CVE-2023-33239](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-33239) - To Be Disclosed
-* [CVE-2023-34213](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34213) - To Be Disclosed
-* [CVE-2023-34214](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34214) - To Be Disclosed
-* [CVE-2023-34215](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34215) - To Be Disclosed
-* [CVE-2023-34216](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34216) - To Be Disclosed
-* [CVE-2023-34217](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34217) - To Be Disclosed
-
+* [CVE-2023-33237](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-33237) - Moxa Router TN-5900 Series Auth Bypass
+* [CVE-2023-33238](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-33238) - Moxa Router TN-4900 Series, TN-5900 Series Post-Auth RCE
+* [CVE-2023-33239](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-33239) - Moxa Router TN-4900 Series, TN-5900 Series Post-Auth RCE
+* [CVE-2023-34213](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34213) - Moxa Router TN-5900 Series Post-Auth RCE
+* [CVE-2023-34214](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34214) - Moxa Router TN-4900 Series, TN-5900 Series Post-Auth RCE
+* [CVE-2023-34215](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34215) - Moxa Router TN-5900 Series Post-Auth RCE
+* [CVE-2023-34216](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34216) - Moxa Router Moxa Router TN-4900 Series, TN-5900 Series Post-Auth File Delete
+* [CVE-2023-34217](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34217) - Moxa Router Moxa Router TN-4900 Series, TN-5900 Series Post-Auth File Delete
 
 ## No Identifier
 
